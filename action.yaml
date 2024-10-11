@@ -36,4 +36,4 @@ inputs:
     default: ''
 runs:
   using: docker
-  image: docker://ghcr.io/trstringer/manual-approval:1.9.1
+  image: docker://ghcr.io/shipitsmarter/manual-approval:dev
